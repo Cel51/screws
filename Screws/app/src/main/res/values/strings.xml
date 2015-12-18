@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Screws</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Metric">
+        <item>Pas Normal</item>
+        <item>Pas Fin</item>
+    </string-array>
+
+    <string-array name="Class">
+        <item>Class 8.8</item>
+        <item>Class 10.9</item>
+        <item>Class 12.9</item>
+    </string-array>
+
+    <string-array name="Status">
+        <item>Non-lubrifié</item>
+        <item>Lubrifié</item>
+    </string-array>
+
+    <string-array name="Diameter">
+        <item>M6</item>
+        <item>M8</item>
+        <item>M10</item>
+        <item>M12</item>
+        <item>M14</item>
+        <item>M16</item>
+        <item>M18</item>
+        <item>M20</item>
+        <item>M22</item>
+        <item>M24</item>
+        <item>M27</item>
+        <item>M30</item>
+        <item>M33</item>
+        <item>M36</item>
+        <item>M39</item>
+        <item>M42</item>
+        <item>M45</item>
+        <item>M48</item>
+        <item>M52</item>
+        <item>M56</item>
+        <item>M60</item>
+        <item>M64</item>
+        <item>M68</item>
+        <item>M120</item>
+    </string-array>
+</resources>
